@@ -1,0 +1,8 @@
+openai
+requests
+beautifulsoup4
+PyMuPDF
+gradio
+Pillow
+reportlab
+python-dotenv
